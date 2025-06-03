@@ -1,0 +1,19 @@
+**Change-log (newest first) (use “+” = added, “-” = removed, “*” = modified)**
+
+03-06-2025
+README.md                       
+  * Overhauled layout: header → quick-start → folder index.
+  * Added emoji icons for visual hierarchy.
+  * Inserted concise project motivation and contribution guide.
+  * Provided git-clone / R-script usage snippet.
+  * Clarified licence & ethics section.
+
+latent_model/README.md          
+  + Linked clearly from folder index.
+  (For detailed per-module changes see latent_model/CHANGELOG.txt)
+
+.gitignore
+  + Added common R artefacts (`*.Rhistory`, `*.Rproj.user`) and macOS cruft.
+
+docs/
+  + Created folder to hold future white papers & grant collateral.
